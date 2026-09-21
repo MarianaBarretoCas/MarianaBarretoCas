@@ -7,8 +7,8 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafolio-alpha-tan-81.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mariana-barreto-castro)
-[![Email](https://img.shields.io/badge/Email-00B8D9?style=for-the-badge&logo=gmail&logoColor=white)](marianabarretocas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-barreto-castro)
+[![Email](https://img.shields.io/badge/Email-00B8D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianabarretocas@gmail.com)
 
 </div>
 
